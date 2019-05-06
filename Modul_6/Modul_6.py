@@ -485,3 +485,6 @@ aw = detak(); mergeSort(u_mrg); ak=detak() ; print "Merge Sort: %g detik" %(ak-a
 aw = detak(); mergeSortBaru(u_mrgnew); ak=detak() ; print "Merge Sort New: %g detik" %(ak-aw)
 aw = detak(); quickSort(u_quick); ak=detak() ; print "quick : %g detik" %(ak-aw)
 aw = detak(); quickSortNew(u_quicknew); ak=detak() ; print "quick new: %g detik" %(ak-aw)
+
+
+   
